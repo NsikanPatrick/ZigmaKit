@@ -42,15 +42,15 @@ Zigmakit is a comprehensive toolkit designed to streamline the digital nomad lif
 `cd ZigmaKit`
 
 * Set up the backend (Django):
-`pip install -r requirements.txt python manage.py migrate python manage.py runserver`
-<!-- `python manage.py migrate`
-`python manage.py runserver` -->
+`pip install -r requirements.txt`
+`python manage.py migrate`
+`python manage.py runserver`
 
 * Set up the frontend (ReactJs):
 On a new terminal window:
-`cd frontend npm install npm start`
-<!-- `npm install`
-`npm start` -->
+`cd frontend`
+`npm install`
+`npm start`
 
 * Access the application in your browser at `http://localhost:8000`.
 
