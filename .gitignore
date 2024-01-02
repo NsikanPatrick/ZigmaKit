@@ -1,0 +1,6 @@
+*venv
+*.env
+bin/
+lib/
+*ZigmaEnv
+*.ZigmaEnv
